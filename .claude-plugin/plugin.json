@@ -1,0 +1,5 @@
+{
+  "name": "opus-playbook",
+  "description": "Audit your Claude Code setup, trim it, then hand the work to Opus with a playbook written by the stronger model.",
+  "version": "0.1.0"
+}
